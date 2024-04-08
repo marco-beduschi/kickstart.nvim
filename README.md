@@ -59,9 +59,6 @@ fork to your machine using one of the commands below, depending on your OS.
 > `https://github.com/marco-beduschi/kickstart.nvim.git`
 
 #### Clone kickstart.nvim
-> **NOTE**
-> If following the recommended step above (i.e., forking the repo), replace
-> `nvim-lua` with `marco-beduschi` in the commands below
 
 <details><summary> Linux and Mac </summary>
 
